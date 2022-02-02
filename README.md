@@ -15,7 +15,7 @@ In this task I had to follow the following points to create a simple analog of r
 
 ## Step 3:
 
-If user did guess - Show the message ‘Congratulation, you won! Your prize is: … $. Do you want to continue?’.
-If user does not want to continue – show the message ‘Thank you for your participation. Your prize is: … $’ (Use alert) and ask if he wants to play again.
-If user does want to continue, make number range bigger at 4 as the previous one (for example [0; 8] -> [0; 12]), and two times bigger maximum prize (for example on 1-st attempt prize will be 200$, 2-nd attempt – 100$, 3-rd attempt – 50$). Prize must be added to the previous one and number of attempts should be set to 3 (user should have 3 attempts to guess a number for each numbers range)
-Each time you ask user to enter a number you should show him a range of cells, how much attempts he has left, his total prize and possible prize on current attempt.
+* If user did guess - Show the message ‘Congratulation, you won! Your prize is: … $. Do you want to continue?’.
+* If user does not want to continue – show the message ‘Thank you for your participation. Your prize is: … $’ (Use alert) and ask if he wants to play again.
+* If user does want to continue, make number range bigger at 4 as the previous one (for example [0; 8] -> [0; 12]), and two times bigger maximum prize (for example on 1-st attempt prize will be 200$, 2-nd attempt – 100$, 3-rd attempt – 50$). Prize must be added to the previous one and number of attempts should be set to 3 (user should have 3 attempts to  guess a number for each numbers range)
+* Each time you ask user to enter a number you should show him a range of cells, how much attempts he has left, his total prize and possible prize on current attempt.
