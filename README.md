@@ -3,15 +3,15 @@ In this task I had to follow the following points to create a simple analog of r
 
 ## Step 1:
 
-Create a prompt window. Show the message inside the window ‘Do you want to play a game?’.
-In case the user clicks the 'Cancel' button, the message 'You did not become a billionaire, but can.' should be shown.
+- Create a prompt window. Show the message inside the window ‘Do you want to play a game?’.
+- In case the user clicks the 'Cancel' button, the message 'You did not become a billionaire, but can.' should be shown.
 
 ## Step 2:
 
-If user clicked ‘Ok’ – start a game: randomly choose an integer number in range [0; 8] (including 0 and 8)and ask user to enter a number of pocket on which the ball could land.
-User has 3 attempts to guess a number.
-If user guessed the numberon which ball landed, on 1-st attempt prize is 100$ (maximum prize for current numbers range), 2-nd attempt – 50$, 3-rd attempt – 25$.
-If user did not guess a number show the message ‘Thank you for your participation. Your prize is: … $’ (Use alert) and ask if he wants to play again.
+* If user clicked ‘Ok’ – start a game: randomly choose an integer number in range [0; 8] (including 0 and 8)and ask user to enter a number of pocket on which the ball could land.
+* User has 3 attempts to guess a number.
+* If user guessed the numberon which ball landed, on 1-st attempt prize is 100$ (maximum prize for current numbers range), 2-nd attempt – 50$, 3-rd attempt – 25$.
+* If user did not guess a number show the message ‘Thank you for your participation. Your prize is: … $’ (Use alert) and ask if he wants to play again.
 
 ## Step 3:
 
